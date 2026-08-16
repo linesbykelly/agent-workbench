@@ -1,0 +1,11 @@
+logs/*
+venv/
+old/
+.idea/
+tests/
+todo.txt
+__pycache__/
+data
+output/*
+.env
+files/

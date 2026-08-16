@@ -1,0 +1,15 @@
+uvicorn~=0.34.2
+fastapi~=0.115.12
+pydantic~=2.11.4
+PyYAML~=6.0.2
+openai-agents
+watchdog~=6.0.0
+aiohttp~=3.12.13
+matplotlib~=3.10.3
+seaborn~=0.13.2
+pytest~=8.4.1
+aioresponses~=0.7.8
+pillow~=11.2.1
+gradio~=5.34.2
+openai~=1.92.0
+pandas~=2.3.0
